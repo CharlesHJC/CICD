@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T07:04:47.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xAuiaST_B05oSIEgWtBB" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T15:05:07.582Z" agent="5.0 (Windows)" etag="R2Ic3u52gzpE80pLj8RO" version="16.6.3" type="github">
   <diagram id="kpf0GCSd1FjbnYlvIcRo" name="第 1 页">
-    <mxGraphModel dx="1887" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nS-9vAhoZRd438oHz8kV-40" value="drawio" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-38" vertex="1">
+        <mxCell id="nS-9vAhoZRd438oHz8kV-40" value="Drawio" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-38" vertex="1">
           <mxGeometry x="80" width="290" height="40" as="geometry">
             <mxRectangle width="290" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -79,7 +79,7 @@
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nS-9vAhoZRd438oHz8kV-49" value="Joplin" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-47" vertex="1">
+        <mxCell id="nS-9vAhoZRd438oHz8kV-49" value="Wiznote" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-47" vertex="1">
           <mxGeometry x="80" width="290" height="40" as="geometry">
             <mxRectangle width="290" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -95,7 +95,7 @@
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nS-9vAhoZRd438oHz8kV-53" value="Jellyfin/Plex/Emby" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-51" vertex="1">
+        <mxCell id="nS-9vAhoZRd438oHz8kV-53" value="Emby" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;" parent="nS-9vAhoZRd438oHz8kV-51" vertex="1">
           <mxGeometry x="80" width="290" height="40" as="geometry">
             <mxRectangle width="290" height="40" as="alternateBounds" />
           </mxGeometry>
