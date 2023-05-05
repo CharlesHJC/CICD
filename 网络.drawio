@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T06:51:29.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.2.9" etag="ACVi8dM5uiHJYMi1O4U9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T07:38:19.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="FNR4iacbiy73-8nGSU9B" version="21.2.9" type="github">
   <diagram name="第 1 页" id="AE8UB-ZpOJdKNOGypsQ4">
-    <mxGraphModel>
+    <mxGraphModel dx="1193" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QnKokKeK_ucxUnzvruSd-16" value="&lt;div&gt;HPE DL380 Gen9&lt;/div&gt;&lt;div&gt;Esxi 7.0_u3&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.31.147&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="78" width="260" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="150" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-5" value="&lt;div&gt;Ubuntu 22.04&lt;/div&gt;&lt;div&gt;192.168.31.167&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
+          <mxGeometry width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-2" value="Gitlab" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
+          <mxGeometry x="15" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-3" value="Wiznote" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
+          <mxGeometry x="15" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-8" value="&lt;div&gt;TrueNAS&lt;/div&gt;&lt;div&gt;192.168.31.245&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-9" value="Video" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-10" value="Bilibili" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="481" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-15" value="Document" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-23" value="&lt;div&gt;旁路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;树莓派 OpenWRT&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.31.254&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-26" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="167" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.891;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-26" target="QnKokKeK_ucxUnzvruSd-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="308" as="sourcePoint" />
+            <mxPoint x="190" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-22" target="QnKokKeK_ucxUnzvruSd-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="203" as="sourcePoint" />
+            <mxPoint x="230" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-22" target="QnKokKeK_ucxUnzvruSd-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.002;exitY=0.314;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-16" target="QnKokKeK_ucxUnzvruSd-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="170" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-23" target="QnKokKeK_ucxUnzvruSd-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="270" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-22" target="QnKokKeK_ucxUnzvruSd-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227" y="339" as="sourcePoint" />
+            <mxPoint x="100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-34" value="DDNS" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-36" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="232" y="163" width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-22" value="&lt;div&gt;主路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;小米AX9000路由器&lt;/div&gt;&lt;div&gt;192.168.31.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-38">
+          <mxGeometry width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-35" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-38">
+          <mxGeometry x="15" y="77" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-39" value="&lt;div&gt;主路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;小米AX9000路由器&lt;/div&gt;&lt;div&gt;192.168.31.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-40" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="547" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
