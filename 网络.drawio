@@ -1,23 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T08:50:05.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="_MWINPF0B6YvQbm6ajmK" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T10:09:48.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="I043XwqepgXgGUIj7SDD" version="21.2.9" type="github">
   <diagram name="第 1 页" id="AE8UB-ZpOJdKNOGypsQ4">
-    <mxGraphModel dx="1193" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QnKokKeK_ucxUnzvruSd-16" value="&lt;div&gt;HPE DL380 Gen9&lt;/div&gt;&lt;div&gt;Esxi 7.0_u3&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.31.147&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="78" width="260" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="150" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-5" value="&lt;div&gt;Ubuntu 22.04&lt;/div&gt;&lt;div&gt;192.168.31.167&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
-          <mxGeometry width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-2" value="Gitlab" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
-          <mxGeometry x="15" y="70" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-3" value="Wiznote" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-6">
-          <mxGeometry x="15" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QnKokKeK_ucxUnzvruSd-8" value="&lt;div&gt;TrueNAS&lt;/div&gt;&lt;div&gt;192.168.31.245&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="120" height="170" as="geometry" />
@@ -70,9 +58,6 @@
             <mxPoint x="322" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-36" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="330" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QnKokKeK_ucxUnzvruSd-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="232" y="163" width="120" height="118" as="geometry" />
         </mxCell>
@@ -90,6 +75,21 @@
         </mxCell>
         <mxCell id="QnKokKeK_ucxUnzvruSd-40" value="DDNS" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-41">
           <mxGeometry x="15" y="77" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-43" value="&lt;div&gt;Ubuntu 22.04&lt;/div&gt;&lt;div&gt;192.168.31.167&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-47">
+          <mxGeometry width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-44" value="Gitlab" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-47">
+          <mxGeometry x="15" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-45" value="Wiznote" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-47">
+          <mxGeometry x="15" y="131" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-46" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-47">
+          <mxGeometry x="15" y="50" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
