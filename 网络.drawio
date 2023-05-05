@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T07:38:19.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="FNR4iacbiy73-8nGSU9B" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T08:50:05.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="_MWINPF0B6YvQbm6ajmK" version="21.2.9" type="github">
   <diagram name="第 1 页" id="AE8UB-ZpOJdKNOGypsQ4">
     <mxGraphModel dx="1193" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,9 +31,6 @@
         <mxCell id="QnKokKeK_ucxUnzvruSd-15" value="Document" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="400" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-23" value="&lt;div&gt;旁路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;树莓派 OpenWRT&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.31.254&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="320" width="120" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="QnKokKeK_ucxUnzvruSd-26" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="167" width="120" height="80" as="geometry" />
         </mxCell>
@@ -61,22 +58,19 @@
             <mxPoint x="170" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-23" target="QnKokKeK_ucxUnzvruSd-22">
+        <mxCell id="QnKokKeK_ucxUnzvruSd-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QnKokKeK_ucxUnzvruSd-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="262" y="320" as="sourcePoint" />
             <mxPoint x="270" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-22" target="QnKokKeK_ucxUnzvruSd-23">
+        <mxCell id="QnKokKeK_ucxUnzvruSd-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnKokKeK_ucxUnzvruSd-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="227" y="339" as="sourcePoint" />
-            <mxPoint x="100" y="340" as="targetPoint" />
+            <mxPoint x="322" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-34" value="DDNS" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="380" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-36" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="QnKokKeK_ucxUnzvruSd-36" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QnKokKeK_ucxUnzvruSd-38" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -88,11 +82,14 @@
         <mxCell id="QnKokKeK_ucxUnzvruSd-35" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-38">
           <mxGeometry x="15" y="77" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-39" value="&lt;div&gt;主路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;小米AX9000路由器&lt;/div&gt;&lt;div&gt;192.168.31.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="470" width="120" height="118" as="geometry" />
+        <mxCell id="QnKokKeK_ucxUnzvruSd-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="232" y="322" width="120" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="QnKokKeK_ucxUnzvruSd-40" value="端口转发" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="547" width="90" height="30" as="geometry" />
+        <mxCell id="QnKokKeK_ucxUnzvruSd-39" value="&lt;div&gt;旁路由&lt;br&gt;&lt;/div&gt;&lt;div&gt;树莓派 OpenWRT&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.31.254&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-41">
+          <mxGeometry width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="QnKokKeK_ucxUnzvruSd-40" value="DDNS" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QnKokKeK_ucxUnzvruSd-41">
+          <mxGeometry x="15" y="77" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
